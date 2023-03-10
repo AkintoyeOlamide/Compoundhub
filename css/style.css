@@ -1,6 +1,6 @@
 /********** Template CSS **********/
 :root {
-    --primary: #06A3DA;
+    --primary: #020167;
     --secondary: #34AD54;
     --light: #EEF9FF;
     --dark: #091E3E;
@@ -493,4 +493,16 @@ h6,
     .footer-about {
         margin-bottom: -75px;
     }
+}
+
+
+/* My own edits */
+
+.logo-img{
+    height: 90px;
+}
+
+.com-text{
+    font-size: 30px;
+    font-weight: 100;
 }
